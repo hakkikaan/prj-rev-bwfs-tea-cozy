@@ -1,6 +1,9 @@
 head {
 	display: none;
 }
+a {
+	color: seashell;
+}
 body {
 	font-family: helvetica;
 	font-size: 22px;
